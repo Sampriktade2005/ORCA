@@ -493,3 +493,11 @@ python -c "from agents.graph import build_orca_graph; graph = build_orca_graph()
 
 This project is licensed under the **MIT License**.  
 Developed for the **Smart India Hackathon (SIH) 2026** under Problem Statement **SIH26176**, sponsored by the **Indian Space Research Organisation (ISRO), Department of Space**. Telemetry feeds and data structures are grounded in public scientific specifications published by ISRO MOSDAC, MoES INCOIS, and IMD.
+
+### 👤 Original Source Repository & Author Attribution
+This repository is a reproduced implementation based on the original open-source project by **Dhrubojyoti Hazra**.
+* **Original Repository**: [https://github.com/dhrubojyotihazra/ORCA](https://github.com/dhrubojyotihazra/ORCA)
+* **Original Author**: Dhrubojyoti Hazra ([@dhrubojyotihazra](https://github.com/dhrubojyotihazra))
+
+*All original architectural design, Multi-Agent LangGraph StateGraph orchestration, PostGIS spatial queries, and documentation have been preserved in compliance with open-source licensing principles.*
+
